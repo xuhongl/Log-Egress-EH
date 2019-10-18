@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:46:57 -0400] "GET /actions/Catalog.action HTTP/1.1" 200 4615 http-bio-9090-exec-1 1494
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:00 -0400] "GET /actions/Catalog.action?viewCategory=&categoryId=DOGS HTTP/1.1" 200 3859 http-bio-9090-exec-3 322
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:02 -0400] "GET /actions/Catalog.action?viewProduct=&productId=K9-DL-01 HTTP/1.1" 200 3785 http-bio-9090-exec-4 280
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:03 -0400] "GET /actions/Catalog.action?viewItem=&itemId=EST-9 HTTP/1.1" 200 3454 http-bio-9090-exec-5 195
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:05 -0400] "GET /actions/Catalog.action?viewCategory=&categoryId=DOGS HTTP/1.1" 200 3859 http-bio-9090-exec-6 15
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:06 -0400] "GET /actions/Catalog.action?viewProduct=&productId=K9-RT-02 HTTP/1.1" 200 4432 http-bio-9090-exec-8 25
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:08 -0400] "GET /actions/Catalog.action?viewItem=&itemId=EST-23 HTTP/1.1" 200 3457 http-bio-9090-exec-9 15
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:10 -0400] "GET /actions/Catalog.action?viewCategory=&categoryId=REPTILES HTTP/1.1" 200 3295 http-bio-9090-exec-10 14
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:11 -0400] "GET /actions/Catalog.action?viewProduct=&productId=RP-SN-01 HTTP/1.1" 200 3782 http-bio-9090-exec-10 12
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:12 -0400] "GET /actions/Catalog.action?viewItem=&itemId=EST-11 HTTP/1.1" 200 3446 http-bio-9090-exec-10 12
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:12 -0400] "GET /images/snake1.gif HTTP/1.1" 304 - http-bio-9090-exec-10 10
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:10:47:15 -0400] "GET /actions/Catalog.action?viewCategory=&categoryId=BIRDS HTTP/1.1" 200 3293 http-bio-9090-exec-10 10
